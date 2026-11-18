@@ -1,0 +1,8 @@
+{
+  "name": "Remix Smart Campus ERP",
+  "description": "Intelligent Campus. Connected Education. AI-powered university administration, academic operations, and student intelligence platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
